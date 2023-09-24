@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  margin-top: 40px;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #172031;
+  color: #fff;
+}
+h2 {
+  text-align: center;
+}
+
+ul {
+  margin-left: 30px;
+}
